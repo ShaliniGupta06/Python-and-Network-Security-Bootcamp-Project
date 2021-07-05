@@ -1,0 +1,11 @@
+Input:
+
+Enter data:	Python
+
+Output:
+
+The MD5 Hash of  Python  after salting is :  f53898be4a6f272e27fbc48acfe4080c
+
+NOTE:
+
+Iteration part not done

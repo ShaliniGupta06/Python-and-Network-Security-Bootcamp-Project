@@ -1,0 +1,9 @@
+Input:
+
+Enter data:	Bootcamp
+
+Output:
+
+The SHA-256 Hash of  Bootcamp is :  818da84c8322908bef12157ffa6513f70a8c248ad331c109e1218f24cecd7277
+The SHA-512 Hash of  Bootcamp is :  6c5ebd6583051694622682c142e4f57ff758fff92750cbae0784257f3d754d99068271bae697adebfe3689a64170c3be7431ea4099cecb1a6fb85a999727f328
+The Blake 2c Hash of  Bootcamp is :  3fe41bb5468b18e6437bff005528b84d9ae7bf2902bdb00f643e31f60302d87e
